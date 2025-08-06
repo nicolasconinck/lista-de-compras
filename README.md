@@ -19,10 +19,8 @@ Uma aplicação web simples para gerenciar sua lista de compras, feita com HTML,
 ```bash
 git clone https://github.com/nicolasconinck/lista-de-compras.git
 
-
 Abra o arquivo index.html no navegador:
 
-```bash
 cd lista-de-compras-js
 start index.html
 Ou simplesmente abra o index.html com duplo clique no seu navegador preferido.
