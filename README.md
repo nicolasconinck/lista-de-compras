@@ -4,43 +4,49 @@ Uma aplicação web simples para gerenciar sua lista de compras, feita com HTML,
 
 ## ✨ Funcionalidades
 
-- ✅ Adicionar itens à lista
-- ❌ Remover itens da lista
-- ✏️ Marcar itens como comprados
-- 💾 Armazenamento local (LocalStorage) — sua lista é salva mesmo após fechar o navegador
+- ✅ Adicionar itens à lista  
+- ❌ Remover itens da lista  
+- ✏️ Marcar itens como comprados  
+- 💾 Armazenamento local (LocalStorage) — sua lista é salva mesmo após fechar o navegador  
 
 ## 📸 Demonstração
-
 ![preview](assets/image.png)
+
 ## 🚀 Como usar
 
 1. Clone este repositório:
 
-```bash
-git clone https://github.com/nicolasconinck/lista-de-compras.git
+    ```bash
+    git clone https://github.com/nicolasconinck/lista-de-compras.git
+    ```
 
-Abra o arquivo index.html no navegador:
+2. Abra o arquivo `index.html` no navegador:
 
-cd lista-de-compras-js
-start index.html
-Ou simplesmente abra o index.html com duplo clique no seu navegador preferido.
+    ```bash
+    cd lista-de-compras-js
+    start index.html
+    ```
 
-🔧 Tecnologias Utilizadas
-HTML5
+    Ou simplesmente **abra o `index.html` com duplo clique** no seu navegador preferido.
 
-CSS3
+## 🔧 Tecnologias Utilizadas
 
-JavaScript (ES6+)
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- LocalStorage  
 
-LocalStorage
+## 💡 Possíveis melhorias
 
-💡 Possíveis melhorias
- Permitir editar itens
+- [ ] Permitir editar itens  
+- [ ] Adicionar categorias  
+- [ ] Ordenar por nome ou status  
+- [ ] Integração com backend para múltiplos usuários  
 
- Categorias de produtos
+## 🧑‍💻 Autor
 
- Ordenar por nome ou status
+Feito por [Nicolas Coninck](https://github.com/nicolasconinck)
 
- Integração com backend para múltiplos usuários
+## 📄 Licença
 
-🧑‍💻 Autor
+Este projeto está licenciado sob a [MIT License](LICENSE)
