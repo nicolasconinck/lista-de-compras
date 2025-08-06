@@ -6,7 +6,8 @@ Uma aplicação web simples para gerenciar sua lista de compras, feita com HTML,
 
 - ✅ Adicionar itens à lista  
 - ❌ Remover itens da lista  
-- ✏️ Marcar itens como comprados  
+- ✏️ Editar itens
+- ✅ Marcar itens como comprados  
 - 💾 Armazenamento local (LocalStorage) — sua lista é salva mesmo após fechar o navegador  
 
 ## 📸 Demonstração
@@ -38,7 +39,6 @@ Uma aplicação web simples para gerenciar sua lista de compras, feita com HTML,
 
 ## 💡 Possíveis melhorias
 
-- [ ] Permitir editar itens  
 - [ ] Adicionar categorias  
 - [ ] Ordenar por nome ou status  
 - [ ] Integração com backend para múltiplos usuários  
